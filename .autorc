@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "alcylion",
+  "repo": "container-bna1lpu",
+  "name": "alcylion",
+  "email": "alcylion@gmail.com",
+}
